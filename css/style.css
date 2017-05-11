@@ -110,15 +110,21 @@ body {
     text-align: center;
 }
 
+#login {
+    margin-top: 30px;
+}
+
 /* FOOTER */
 #footer {
     background: #333333;
     color: #ffffff;
-    text-align: center;
+    position: fixed;
+    bottom: 0;
     padding: 30px;
     margin-top: 30px;
+    text-align: center;
+    width: 100%;
 }
-
 
 
 /* MEDIA QUERIES */
